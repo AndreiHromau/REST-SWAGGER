@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Домашнее+задание)](https://git.io/typing-svg)
 ## Описание
-:rocket: **Проект из домашней работы, где нужно было сделать REST реализацию**.
+:rocket: **Проект из домашней работы, где нужно было сделать REST API реализацию**.
 <br>
 :rocket: **Присутствует REST контроллер в проекте.**.
 <br>
@@ -20,6 +20,7 @@
 :white_check_mark:   Spring Boot
 :white_check_mark:   Java 17
 :white_check_mark:   Maven
+:white_check_mark:   REST API
 
 ## Установка 
 **1.Склонируйте репозиторий и запустите проект в Intellij IDEA**;
